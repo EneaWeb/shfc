@@ -39,7 +39,7 @@ return [
     |
     */
 
-    'url' => 'http://localhost',
+    'url' => 'http://demos.eneaweb.com/speranza',
 
     /*
     |--------------------------------------------------------------------------

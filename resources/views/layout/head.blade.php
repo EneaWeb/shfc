@@ -2,7 +2,7 @@
 
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<title>RED - Responsive One Page HTML5 Website Template</title>
+<title>SPERANZA - HOPE FOR CHILDREN</title>
 <meta name="description" content="Responsive One Page HTML5 Template">
 <meta name="keywords" content="HTML5, CSS, Bootsrtrap, Responsive, Template" />
 <meta name="author" content="http://themetorium.tumblr.com">
